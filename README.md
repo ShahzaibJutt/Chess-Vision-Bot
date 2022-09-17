@@ -24,7 +24,7 @@ Just have to run chessbot.py. The bot will start playing game on the browser.
 
 ## Demo
 
-![](https://github.com/Chess-Vision-Bot/ChessVisionBotDemo.gif)
+![](https://github.com/ShahzaibJutt/Chess-Vision-Bot/blob/main/ChessVisionBotDemo.gif)
 
 ## 🔗 Links
 
